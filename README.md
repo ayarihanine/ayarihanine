@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Hanine Ayari </h1>
+<h1 align="center">I'm Hanine Ayari </h1>
 <h3 align="center">Software pre-engineering student</h3>
 
 I'm building a full-stack apps while exploring AI
