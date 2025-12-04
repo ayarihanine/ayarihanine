@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Hanine Ayari </h1>
-<h3 align="center">A passionate software pre-engineering student</h3>
+<h3 align="center">Software pre-engineering student</h3>
 
-I'm building a full-stack apps while exploring IoT with ESP32 and Arduino
+I'm building a full-stack apps while exploring AI
 
 - How to reach me **ayarihanine@proton.me**
 
