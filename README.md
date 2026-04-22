@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+AI+agents;Automating+with+n8n;Full-stack+development)](https://git.io/typing-svg)
 
-> *"Fokussierung"* — Building full-stack apps while exploring the frontiers of AI 🤖✨
+> *"Fokussierung"* — Building full-stack apps while exploring the frontiers of AI
 
 ---
 
