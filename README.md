@@ -23,8 +23,8 @@ Reach me: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)](https://skillicons.dev)
 
 ### AI & Data
-[![My Skills](https://skillicons.dev/icons?i=n8n,jupyter,postgres,mongodb)](https://skillicons.dev)
-[![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)[![My Skills](https://skillicons.dev/icons?i=n8n,jupyter,postgres,mongodb)](https://skillicons.dev)
+
 
 ### Tools & DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux)](https://skillicons.dev)
