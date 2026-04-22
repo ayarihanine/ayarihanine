@@ -2,7 +2,7 @@
 
 ### Software Pre-Engineering Student & AI Explorer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+AI+agents;Automating+with+n8n;Full-stack+development;Learning+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+AI+agents;Automating+with+n8n;Full-stack+development)](https://git.io/typing-svg)
 
 > *"Fokussierung"* — Building full-stack apps while exploring the frontiers of AI 🤖✨
 
@@ -10,9 +10,7 @@
 
 ## About Me
 
-I build **scalable web applications** and experiment with **Generative AI agents** that solve real problems.  
-I enjoy turning complex ideas into practical products, automating workflows, and learning through clean, purposeful code.
-
+I build **scalable web applications** and experiment with **Generative AI agents** that solve real problems
 **Currently working on**: AI agents, automation workflows (n8n), and full-stack projects   
 **Reach me**: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
 
