@@ -32,14 +32,6 @@ Currently working on: AI agents, automation workflows (n8n), and full-stack proj
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**open-swe**](https://github.com/ayarih/open-swe) | Open-source asynchronous coding agent | TypeScript |
-| [**GenAI_Agents**](https://github.com/ayarih/GenAI_Agents) | Tutorials for building intelligent AI agents | Python, Jupyter |
-| [**automation**](https://github.com/ayarih/automation) | Workflow automation with n8n + AI | TypeScript, n8n |
-| [**awesome-generative-ai**](https://github.com/ayarih/awesome-generative-ai) | Curated list of GenAI projects & resources | Markdown |
 
 ---
 
