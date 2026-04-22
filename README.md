@@ -1,4 +1,4 @@
-# Hi there, I'm Hanine Ayari
+# Hi there, I'm Hanine Ayari 👋
 
 ### Software Pre-Engineering Student & AI Explorer
 
@@ -18,34 +18,17 @@ Currently working on: AI agents, automation workflows (n8n), and full-stack proj
 
 ## 🛠️ Tech Stack
 
-### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)](https://skillicons.dev)
+### Front-End & Design
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,figma)](https://skillicons.dev)
 
 ### Back-End & Full-Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)](https://skillicons.dev)
 
 ### AI & Data
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=n8n,jupyter,postgres,mongodb)](https://skillicons.dev)
 
 ### Tools & DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux)](https://skillicons.dev)
-
----
-
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayarih&show_icons=true&theme=radical&hide_border=true" alt="Hanine's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarih&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayarih&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayarih&theme=github-compact&hide_border=true" alt="Contribution Graph" width="48%">
-</div>
 
 ---
 
@@ -61,3 +44,4 @@ Currently working on: AI agents, automation workflows (n8n), and full-stack proj
   <!-- Add more: LinkedIn, Twitter, etc. -->
 </div>
 
+---
