@@ -1,18 +1,16 @@
-# Hi there, I'm Hanine Ayari 👋
+# Hi there, I'm Hanine Ayari
 
 ### Software Pre-Engineering Student & AI Explorer
 
-> *"Fokussierung"* — Building full-stack apps while exploring the frontiers of AI 🤖✨
+> *"Fokussierung"* — Building full-stack apps while exploring the frontiers of AI 
 
 ---
 
-## 🧭 About Me
+## About Me
 
-I build **scalable web applications** and experiment with **Generative AI agents** that solve real problems.
-I enjoy turning complex ideas into practical products, automating workflows, and learning through clean, purposeful code.
-
+I build **scalable web applications** and experiment with **Generative AI agents**
 Currently working on: AI agents, automation workflows (n8n), and full-stack projects  
-📫 Reach me: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
+Reach me: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
 
 ---
 
@@ -32,16 +30,11 @@ Currently working on: AI agents, automation workflows (n8n), and full-stack proj
 
 ---
 
-## 🔗 Let's Connect
-
-<div align="center">
-  <a href="mailto:ayarihanine@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/ayarih">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <!-- Add more: LinkedIn, Twitter, etc. -->
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarih&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://streak-stats.demolab.com?user=ayarih&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%">
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayarih&theme=github-dark&hide_border=true" alt="Contribution Graph" width="100%">
+</p>
