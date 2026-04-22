@@ -1,4 +1,4 @@
-# Hi there, I'm Hanine Ayari 👋
+# Hi there, I'm Hanine Ayari 
 
 ### Software Pre-Engineering Student & AI Explorer
 
@@ -8,19 +8,17 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 I build **scalable web applications** and experiment with **Generative AI agents** that solve real problems.  
 I enjoy turning complex ideas into practical products, automating workflows, and learning through clean, purposeful code.
 
-🔭 **Currently working on**: AI agents, automation workflows (n8n), and full-stack projects  
-🌱 **Learning**: LLM orchestration, production-ready AI systems, and design systems  
-💬 **Ask me about**: GenAI, TypeScript, Python, or workflow automation  
-📫 **Reach me**: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
+**Currently working on**: AI agents, automation workflows (n8n), and full-stack projects   
+**Reach me**: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -41,7 +39,7 @@ I enjoy turning complex ideas into practical products, automating workflows, and
 
 ---
 
-## 📊 Analytics
+## Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarih&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%">
@@ -54,14 +52,14 @@ I enjoy turning complex ideas into practical products, automating workflows, and
 
 ---
 
-## 🔗 Let's Connect
+
+## Let's Connect
 
 <div align="center">
   <a href="mailto:ayarihanine@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/ayarih">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://www.linkedin.com/in/hanine-ayari-7990b323b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
