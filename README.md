@@ -16,7 +16,7 @@ I build **scalable web applications** and experiment with **Generative AI agents
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
