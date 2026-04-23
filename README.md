@@ -16,7 +16,7 @@ I build **scalable web applications** and experiment with **Generative AI agents
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -24,16 +24,15 @@ I build **scalable web applications** and experiment with **Generative AI agents
 |----------------------|-------------------------|
 | [![Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,figma)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,django,php)](https://skillicons.dev) |
 
-| 🤖 AI, Data & Automation | 🔧 Tools & DevOps |
-|-------------------------|------------------|
-| [![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io) [![Skills](https://skillicons.dev/icons?i=jupyter,postgres,mongodb,json)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux)](https://skillicons.dev) |
+| 📱 Mobile & Cross-Platform | 🤖 AI, Data & Automation |
+|---------------------------|-------------------------|
+| [![Skills](https://skillicons.dev/icons?i=androidstudio,expo,reactnative)](https://skillicons.dev) | [![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io) [![Skills](https://skillicons.dev/icons?i=jupyter,postgres,mongodb,json)](https://skillicons.dev) |
 
-| 💻 Systems & Languages |
-|------------------------|
-| [![Skills](https://skillicons.dev/icons?i=c,cpp,javascript)](https://skillicons.dev) |
+| 🔧 Tools & DevOps | 💻 Systems & Languages |
+|------------------|------------------------|
+| [![Skills](https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=c,cpp,javascript)](https://skillicons.dev) |
 
 </div>
-
 
 ---
 
