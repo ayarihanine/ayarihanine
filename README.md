@@ -51,6 +51,13 @@ I build **scalable web applications** and experiment with **Generative AI agents
 
 ---
 
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarih&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="100%">
+</p>
+
+---
+
 ## Let's Connect
 
 <div align="center">
