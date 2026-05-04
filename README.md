@@ -51,13 +51,6 @@ I build **scalable web applications** and experiment with **Generative AI agents
 
 ---
 
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarih&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="100%">
-</p>
-
----
-
 ## Let's Connect
 
 <div align="center">
@@ -68,4 +61,3 @@ I build **scalable web applications** and experiment with **Generative AI agents
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
- change it in here 
