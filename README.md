@@ -51,16 +51,6 @@ I build **scalable web applications** and experiment with **Generative AI agents
 
 ---
 
-### 💻 Languages Used
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,python,c,cpp" alt="Languages Used">
-</p>### 💻 Languages Used
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,python,c,cpp" alt="Languages Used">
-</p>
-
----
-
 ## Let's Connect
 
 <div align="center">
