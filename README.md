@@ -9,9 +9,8 @@
 ## About Me
 
 I build **scalable web applications** and experiment with **Generative AI agents** that solve real problems.
-- **Currently working on**: AI agents, automation workflows (n8n) and full-stack projects.
-- **Focus**: Clean architecture meets great UX.
-- **Reach me**: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
+- **Currently working on**: AI agents, automation workflows (n8n) and full-stack projects
+- **Reach out**: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
 
 ---
 
