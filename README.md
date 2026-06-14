@@ -1,4 +1,4 @@
-# Hi there, I'm Hanine Ayari 
+# Hi there, I'm Hanine Ayari 👋
 
 ### Software Pre-Engineering Student & AI Explorer
 
@@ -8,9 +8,20 @@
 
 ## About Me
 
-I build **scalable web applications** and experiment with **Generative AI agents** that solve real problems.
-- **Currently working on**: AI agents, automation workflows (n8n) and full-stack projects
+I'm a passionate Software Pre-Engineering Student with a keen interest in Artificial Intelligence. I focus on building **scalable web applications** and experimenting with **Generative AI agents** that solve real-world problems. My goal is to leverage technology to create innovative solutions and contribute to the ever-evolving landscape of AI.
+
+- **Currently working on**: AI agents, automation workflows (n8n), and full-stack projects.
 - **Reach out**: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
+
+---
+
+## Typing Animation
+
+```markdown
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=430&lines=I+build+scalable+web+applications.;I+experiment+with+Generative+AI+agents.;I+love+to+learn+and+innovate!" alt="Typing SVG" />
+</p>
+```
 
 ---
 
