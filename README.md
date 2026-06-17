@@ -8,9 +8,10 @@
 
 ## About Me
 
-A Software Pre-Engineering Student with a keen interest in Artificial Intelligence. I focus on building **scalable web applications** and experimenting with **Generative AI agents** that solve real problems. My goal is to leverage technology to create innovative solutions and contribute to the ever-evolving landscape of AI.
+A Software Pre-Engineering Student with a keen interest in Artificial Intelligence. I focus on building **scalable web applications** and experimenting with **Generative AI agents** that solve real problems. 
 
-- **Currently working on**: AI agents, automation workflows (n8n), and full-stack projects.
+- **Goal** :leverage technology to create innovative solutions and contribute to the ever-evolving landscape of AI
+- **Currently working on**: AI agents, automation workflows (n8n) and full-stack projects.
 - **Reach out**: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
 
 
