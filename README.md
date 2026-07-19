@@ -30,12 +30,12 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,wordpress,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular,wordpress,react,ts&theme=dark" />
 </p>
 
 ### Back-End and Full-Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,python,fastapi,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,symfony,python,php,fastapi,c&theme=dark" />
 </p>
 
 ### Mobile
