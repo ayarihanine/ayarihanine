@@ -40,7 +40,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,react,figma&theme=dark" />
 </p>
 
 ### Databases and Data
