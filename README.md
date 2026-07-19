@@ -1,19 +1,26 @@
-# Hi there, I'm Hanine 
+
+<div align="center">
+
+# Hi there, I'm Hanine
 
 ### Software Pre-Engineering Student & AI Explorer
 
-> *"Fokussierung"* — Building full-stack apps while exploring the frontiers of AI
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&repeat=true&width=680&lines=Building+full-stack+apps+while+exploring+the+frontiers+of+AI;Leveraging+technology+to+create+innovative+solutions;Always+learning%2C+always+improving" alt="Typing SVG"/>
+  </a>
+</div>
 
 ---
 
 ## About Me
 
-A Software Pre-Engineering Student with a keen interest in Artificial Intelligence. I focus on building **scalable web applications** and experimenting with **Generative AI agents** that solve real problems. 
+A Software Pre-Engineering Student with a keen interest in Artificial Intelligence. I focus on building **scalable web applications** and experimenting with **Generative AI agents** that solve real problems.
 
-- **Goal** :leverage technology to create innovative solutions and contribute to the ever-evolving landscape of AI
+- **Goal**: Leverage technology to create innovative solutions and contribute to the ever-evolving landscape of AI.
 - **Currently working on**: AI agents, automation workflows (n8n) and full-stack projects.
-- **Reach out**: [ayarihanine@proton.me](mailto:ayarihanine@proton.me)
-
 
 ---
 
@@ -22,19 +29,30 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 <div align="center">
 
 ### Front-End
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,figma)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,figma&theme=dark" />
+</p>
 
 ### Back-End & Full-Stack
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,django,php)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,php&theme=dark" />
+</p>
 
 ### Mobile
-[![Skills](https://skillicons.dev/icons?i=androidstudio,expo,reactnative)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,expo,reactnative&theme=dark" />
+</p>
 
 ### AI, Data & Automation
-[![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io) [![Skills](https://skillicons.dev/icons?i=jupyter,postgres,mongodb,json)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=jupyter,postgres,mongodb,json&theme=dark" />
+</p>
 
 ### Tools & Systems
-[![Skills](https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,javascript)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,javascript&theme=dark" />
+</p>
 
 </div>
 
@@ -42,24 +60,39 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarihanine&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%">
-  <img src="https://streak-stats.demolab.com?user=ayarihanine&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%">
-</p>
-<br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayarihanine&theme=github-dark&hide_border=true" alt="Contribution Graph" width="100%">
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayarihanine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarihanine&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ayarihanine&background=0d1117&hide_border=true&ring=2dd4bf&fire=22d3ee&currStreakLabel=2dd4bf&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayarihanine&bg_color=0d1117&color=5eead4&line=2dd4bf&point=22d3ee&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
 ## Let's Connect
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/hanine-ayari-7990b323b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:ayarihanine@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/hanine-ayari-7990b323b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ayarihanine&style=for-the-badge&color=14b8a6" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Always learning. Always building. Always exploring.</sub>
 </div>
