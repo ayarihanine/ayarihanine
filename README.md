@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&repeat=true&width=680&lines=Building+automation-systems+apps+agents;Leveraging+technology+to+create+innovative+solutions" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=6A737D&center=true&vCenter=true&repeat=true&width=680&lines=Building+automation-systems+apps+agents;Leveraging+technology+to+create+innovative+solutions" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -71,7 +71,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayarihanine&background=0d1117&hide_border=true&ring=2dd4bf&fire=22d3ee&currStreakLabel=2dd4bf&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ayarihanine&background=0d1117&hide_border=true&ring=6A737D&fire=959DA5&currStreakLabel=6A737D&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -79,7 +79,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayarihanine&bg_color=0d1117&color=5eead4&line=2dd4bf&point=22d3ee&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayarihanine&bg_color=0d1117&color=6A737D&line=6A737D&point=959DA5&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -93,7 +93,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
   <a href="mailto:ayarihanine@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ayarihanine&style=for-the-badge&color=14b8a6" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ayarihanine&style=for-the-badge&color=6A737D" alt="Profile Views"/>
 </div>
 
 ---
