@@ -30,7 +30,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,figma&theme=dark" />
 </p>
 
 ### Back-End & Full-Stack
@@ -43,10 +43,15 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
   <img src="https://skillicons.dev/icons?i=androidstudio,expo,reactnative&theme=dark" />
 </p>
 
-### AI, Data & Automation
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mariadb,json&theme=dark" />
+</p>
+
+### AI & Automation
 <p>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=jupyter,postgres,mongodb,json&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" />
 </p>
 
 ### Tools & Systems
