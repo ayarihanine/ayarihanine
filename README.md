@@ -30,33 +30,34 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,wordpress,react&theme=dark" />
 </p>
 
-### Back-End & Full-Stack
+### Back-End and Full-Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,javascript,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,python,fastapi,c&theme=dark" />
 </p>
 
 ### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,expo,reactnative,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,figma&theme=dark" />
 </p>
 
-### Databases
+### Databases and Data
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mariadb,json&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### AI & Automation
-<p>
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" />
-</p>
+</div>
 
 ### Tools & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,n8n" />
 </p>
 
 </div>
