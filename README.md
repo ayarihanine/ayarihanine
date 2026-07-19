@@ -40,7 +40,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,expo,reactnative&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,expo,reactnative,flutter&theme=dark" />
 </p>
 
 ### Databases
@@ -56,7 +56,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ### Tools & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,javascript,n8n,figma&theme=dark" />
 </p>
 
 </div>
