@@ -53,8 +53,6 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-</div>
-
 ### Tools & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,n8n" />
