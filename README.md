@@ -63,6 +63,46 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ---
 
+---
+
+## Methodologies and Practices
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/RESTful_APIs-6A737D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC-6A737D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-6A737D?style=for-the-badge"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Agile-6A737D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6A737D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kanban-6A737D?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+## Tools and Environment
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/UML-6A737D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Draw.io-6A737D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Chart.js-6A737D?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/DataTables-6A737D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentry-6A737D?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-6A737D?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
