@@ -35,7 +35,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ### Back-End & Full-Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,javascript,php&theme=dark" />
 </p>
 
 ### Mobile
@@ -56,7 +56,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ### Tools & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,javascript,n8n,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp" />
 </p>
 
 </div>
