@@ -140,3 +140,4 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 <div align="center">
   <sub>Always learning. Always building. Always exploring.</sub>
 </div>
+\n- 🚀 Contributing to the community.
