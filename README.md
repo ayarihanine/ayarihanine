@@ -71,12 +71,7 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 <p>
   <img src="https://img.shields.io/badge/RESTful_APIs-6A737D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MVC-6A737D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design_Patterns-6A737D?style=for-the-badge"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/Agile-6A737D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scrum-6A737D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kanban-6A737D?style=for-the-badge"/>
 </p>
 
 </div>
