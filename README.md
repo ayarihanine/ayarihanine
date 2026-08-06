@@ -131,7 +131,3 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 </div>
 
 ---
-
-<div align="center">
-  <sub>learning-building-exploring.</sub>
-</div>
