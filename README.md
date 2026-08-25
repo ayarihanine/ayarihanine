@@ -89,16 +89,16 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ## GitHub Stats
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayarihanine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarihanine&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ayarihanine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=ayarihanine&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
 
-  <img src="https://streak-stats.demolab.com?user=ayarihanine&background=0d1117&hide_border=true&ring=6A737D&fire=959DA5&currStreakLabel=6A737D&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayarihanine&hide_border=true" alt="GitHub Streak"/>
 
 ---
 
 ## Contribution Graph
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayarihanine&bg_color=0d1117&color=6A737D&line=6A737D&point=959DA5&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayarihanine&theme=github_dark" alt="Contribution Graph"/>
 
 ---
 
