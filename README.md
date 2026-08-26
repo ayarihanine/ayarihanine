@@ -22,39 +22,39 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ## Tech Stack
 
+<div align="center">
 
-### Front-End
+<h3>Frontend Development</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular,wordpress,react,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular,wordpress,react,ts&theme=dark" alt="Frontend technologies: HTML, CSS, JavaScript, Bootstrap, Tailwind, Angular, WordPress, React, and TypeScript"/>
 </p>
 
-### Back-End and Full-Stack
+<h3>Backend & Full-Stack Development</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,fastapi,spring,symfony,python,php,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,fastapi,spring,symfony,python,php,c&theme=dark" alt="Backend technologies: Java, FastAPI, Spring, Symfony, Python, PHP, and C"/>
 </p>
 
-### Mobile
+<h3>Mobile & Design</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,react,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,react,figma&theme=dark" alt="Mobile and design tools: Android Studio, React, and Figma"/>
 </p>
 
-### Databases and Data
+<h3>Databases & Data Engineering</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" alt="Databases: MySQL, SQLite, MongoDB, and PostgreSQL"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
-### Tools & Systems
+<h3>Tools, Systems & Automation</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,n8n" />
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,linux,c,cpp,n8n&theme=dark" alt="Tools and systems: Git, Docker, GitHub Actions, VS Code, Linux, C, C++, and n8n"/>
 </p>
 
-
----
+</div>
 
 ---
 
