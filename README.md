@@ -89,21 +89,26 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ## GitHub Stats
 
-[![GitHub statistics](https://github-stats-extended.vercel.app/api?username=ayarihanine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)](https://github.com/ayarihanine)
-
-[![Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=ayarihanine&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117)](https://github.com/ayarihanine)
+<div align="center">
+  <a href="https://github.com/ayarihanine"><img height="180em" src="https://github-stats-extended.vercel.app/api?username=ayarihanine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub statistics"/></a>
+  <a href="https://github.com/ayarihanine"><img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=ayarihanine&layout=compact&langs_count=100&theme=algolia&hide_border=true&bg_color=0d1117" alt="All used programming languages"/></a>
+</div>
 
 ## GitHub Streak
 
-[![GitHub streak](https://img.shields.io/badge/GitHub_Streak-View_profile-6A737D?style=for-the-badge&logo=github)](https://github.com/ayarihanine)
-
----
+<div align="center">
+  <a href="https://github.com/ayarihanine"><img src="https://img.shields.io/badge/GitHub_Streak-View_profile-6A737D?style=for-the-badge&logo=github" alt="GitHub streak"/></a>
+</div>
 
 ---
 
 ## Contribution Graph
 
-[![Contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayarihanine&theme=github_dark)](https://github.com/ayarihanine)
+<div align="center">
+  <a href="https://github.com/ayarihanine"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayarihanine&theme=github_dark" alt="Contribution graph"/></a>
+</div>
+
+---
 
 ## Let's Connect
 
