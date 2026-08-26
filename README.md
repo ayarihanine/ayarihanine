@@ -62,8 +62,6 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 ---
 
----
-
 ## Methodologies and Practices
 
 <div align="center">
