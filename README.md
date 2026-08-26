@@ -100,8 +100,8 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ayarihanine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=ayarihanine&layout=compact&langs_count=100&theme=algolia&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayarihanine&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayarihanine&theme=github_dark"/>
 </div>
 
 <div align="center">
