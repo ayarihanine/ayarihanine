@@ -95,26 +95,6 @@ A Software Pre-Engineering Student with a keen interest in Artificial Intelligen
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayarihanine&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayarihanine&theme=github_dark"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayarihanine&background=0d1117&hide_border=true&ring=6A737D&fire=959DA5&currStreakLabel=6A737D&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayarihanine&theme=github_dark" alt="Contribution Graph"/>
-</div>
 
 ---
 
