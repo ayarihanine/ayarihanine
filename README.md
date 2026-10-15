@@ -6,7 +6,7 @@
 
 ### Building the bridge between machine learning prototypes and production systems
 
-I’m a developer focused on **AI automation, machine learning deployment, and MLOps**. I build practical software that turns ideas into reliable, maintainable, and scalable applications.
+Developer focused on **AI automation, machine learning deployment, and MLOps**—turning ideas into reliable, scalable applications.
 
 <p>
   <a href="https://www.linkedin.com/in/hanine-ayari-7990b323b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -20,7 +20,7 @@ I’m a developer focused on **AI automation, machine learning deployment, and M
 
 ## About me
 
-I enjoy working at the intersection of **software engineering, artificial intelligence, and automation**. My goal is to make machine learning useful beyond the notebook by designing the APIs, workflows, infrastructure, and feedback loops that support real-world applications.
+I build the APIs, workflows, and infrastructure that move machine learning from notebooks into real-world applications.
 
 - **Building:** AI-powered applications, agents, APIs, and automation workflows
 - **Exploring:** reproducible ML systems, model serving, evaluation, and observability
@@ -46,7 +46,7 @@ Explore       Build          Package          Deploy          Observe       Impr
 Data & ML  →  Train & test  →  Version  →  Containerize  →  Serve  →  Monitor
 ```
 
-I’m currently deepening my knowledge across the complete lifecycle:
+Current focus:
 
 - Model evaluation, serving, versioning, and reproducible experiments
 - Data and ML pipelines with workflow orchestration
@@ -105,27 +105,3 @@ I’m currently deepening my knowledge across the complete lifecycle:
 - **Measure what matters** — use evaluation and observability to guide decisions.
 - **Keep interfaces clear** — create services that are simple to integrate and maintain.
 - **Learn by shipping** — turn experiments into documented, reusable engineering practice.
-
-## Currently learning
-
-```text
-[██████████████████░░]  MLOps & model lifecycle
-[████████████████░░░░]  Cloud-native deployment
-[███████████████░░░░░]  Data & ML orchestration
-[██████████████░░░░░░]  Observability & reliability
-```
-
-These progress bars represent **areas of active focus**, not formal proficiency scores.
-
-## Let’s connect
-
-I’m open to learning opportunities, collaboration, and conversations about **AI automation, MLOps, machine learning deployment, and software engineering**.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hanine-ayari-7990b323b/">LinkedIn</a> ·
-  <a href="mailto:ayarihanine@proton.me">Email</a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=100&section=footer" alt="" />
-</div>
