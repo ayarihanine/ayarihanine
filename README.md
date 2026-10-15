@@ -6,7 +6,7 @@
 
 ### Building the bridge between machine learning prototypes and production systems
 
-Developer focused on **AI automation, machine learning deployment, and MLOps**—turning ideas into reliable, scalable applications.
+Developer focused on **AI automation, machine learning deployment and MLOps**—turning ideas into reliable and scalable applications.
 
 <p>
   <a href="https://www.linkedin.com/in/hanine-ayari-7990b323b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -20,7 +20,7 @@ Developer focused on **AI automation, machine learning deployment, and MLOps**�
 
 ## About me
 
-I build the APIs, workflows, and infrastructure that move machine learning from notebooks into real-world applications.
+I build the APIs, workflows and infrastructure that move machine learning from notebooks into real-world applications.
 
 - **Building:** AI-powered applications, agents, APIs, and automation workflows
 - **Exploring:** reproducible ML systems, model serving, evaluation, and observability
