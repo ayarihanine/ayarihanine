@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=180&section=header&text=Hanine%20Ayari&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Automation%20%7C%20MLOps%20%7C%20Machine%20Learning%20Deployment&descAlignY=62&descSize=18" alt="Hanine Ayari - AI Automation and MLOps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4B5563,100:9CA3AF&height=180&section=header&text=Hanine%20Ayari&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Automation%20%7C%20MLOps%20%7C%20Machine%20Learning%20Deployment&descAlignY=62&descSize=18" alt="Hanine Ayari - AI Automation and MLOps" />
 </div>
 
 <div align="center">
